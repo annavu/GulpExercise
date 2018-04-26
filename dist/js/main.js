@@ -1,0 +1,1 @@
+console.log("This is file one"),console.log("This is file two"),console.log("this is file2"),alert("this is file2");
